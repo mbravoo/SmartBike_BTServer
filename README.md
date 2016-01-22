@@ -24,5 +24,5 @@ Y listo. Ahora cada vez que se encienda la Rpi, se ejecutará el script con el s
 
 ## Creditos
 
-Matias Bravo
-Gian Bravo
+##Matias Bravo
+##Gian Bravo
